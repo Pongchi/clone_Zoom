@@ -1,0 +1,22 @@
+{
+  "name": "clone_zoom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pongchi/clone_Zoom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pongchi/clone_Zoom/issues"
+  },
+  "homepage": "https://github.com/Pongchi/clone_Zoom#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.17.6",
+    "@babel/core": "^7.17.5",
+    "@babel/node": "^7.16.8"
+  }
+}
